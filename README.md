@@ -1,0 +1,2 @@
+# NJAUproject
+Undergraduate individual project
