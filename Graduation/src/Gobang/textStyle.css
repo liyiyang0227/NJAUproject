@@ -1,0 +1,12 @@
+.label {
+    -fx-font-size: 14.0px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-effect: dropshadow( gaussian , rgba(255.0,255.0,255.0,0.5) , 0.0,0.0,0.0,1.0 );
+}
+
+#welcome-text {
+    -fx-font-size: 32.0px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #818181;
+}

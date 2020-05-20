@@ -1,0 +1,21 @@
+
+#actiontarget {
+    -fx-fill: FIREBRICK;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255.0,255.0,255.0,0.5) , 0.0,0.0,0.0,1.0 );
+}
+
+.button{
+    -fx-background-color:#d0d0d0;
+    -fx-background-radius: 5.0px;
+    -fx-text-fill:#fff;
+    -fx-pref-height: 30.0px;
+    -fx-pref-width: 100.0px;
+    -fx-font-size:16px;
+    -fx-font-weight: bold;
+    -fx-font-family:"微软雅黑";
+}
+.button:hover {
+    -fx-background-color: #ADADAD;
+    -fx-cursor: hand;
+}
